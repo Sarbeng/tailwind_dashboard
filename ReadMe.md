@@ -9,4 +9,15 @@ A tailwind dashboard yes please!
    - one without dropdowns
    - one with plenty elements
    - one with a few elements
-- 
+- charts
+- maps
+- tables
+    - data tables
+    - normal tables
+- dashboard
+    - cards
+    - 
+-  user profile
+- notifications
+- search 
+
