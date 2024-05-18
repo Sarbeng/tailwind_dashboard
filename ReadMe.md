@@ -64,5 +64,19 @@ With their code being the interface, so you just copy and paste and you're good 
     - lightbox
     - offcanvas
     - progress bar
-    - 
+    - lazy loading
+    - Pagination
+    - Spinners
+    - Toast
+    - Tooltips
+    - multilevel navigation
+    - alerts
+    - badges
+    - breadcrumbs
+    - close button
+- settings page
+- billing
+-
+- 404 error page
+
 
